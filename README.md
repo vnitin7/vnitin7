@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/vnitin_7" target="blank"><img src="https://img.shields.io/twitter/follow/vnitin_7?logo=twitter&style=for-the-badge" alt="vnitin_7" /></a> </p>
 
-- 🔭 I’m have worked on [Stock Price Prediction](https://github.com/vnitin7/Stock-Price-Prediction)
+- 🔭 I have worked on [Stock Price Prediction](https://github.com/vnitin7/Stock-Price-Prediction)
 
 - 🌱 I’m currently learning **Enhancing my problem solving skills on by solving questions on Leetcode and learning Javascript**
 
-- 🔭 I’m have worked on [Confetti Calculator](https://github.com/vnitin7/confetti-calculator)
+- 🔭 I have worked on [Confetti Calculator](https://github.com/vnitin7/confetti-calculator)
 
 - 📫 How to reach me **v.nitinmsd07@gmail.com**
 
