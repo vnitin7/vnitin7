@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **v.nitinmsd07@gmail.com**
 
-- 📄 Know about my experiences [https://chocolate-berna-31.tiiny.site/](https://chocolate-berna-31.tiiny.site/)
+- 📄 Know about my experiences [My Resume](https://nitinvermaresume.tiiny.site/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
